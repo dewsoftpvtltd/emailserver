@@ -1,3 +1,4 @@
+#!/bin/bash
 wget https://raw.githubusercontent.com/dewsoftpvtltd/emailserver/master/three.sh
 wget https://raw.githubusercontent.com/dewsoftpvtltd/emailserver/master/one.sh
 wget https://raw.githubusercontent.com/dewsoftpvtltd/emailserver/master/two.sh

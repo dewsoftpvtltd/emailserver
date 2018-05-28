@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo nano /etc/postfix/main.cf
 
 smtpd_tls_key_file = /etc/ssl/private/iRedMail.key
